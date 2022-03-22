@@ -4,7 +4,7 @@ Repository for data processing work to refer to when working on larger projects.
 ### Files
 * Python EDA Template: ready to use for any dataset, includes functions listed below
 * Example Transformations Titanic: example use of strategy & functions with Titanic dataset
-* Example EDA with skewed data from Boston Housing public dataset: example using Seaborn for plotting
+* Example EDA with skewed variable from Boston Housing public dataset: example using Seaborn for plotting and simple transformations
 
 ### Functions Included
 * Diagnostic plots: creates histogram and Q-Q plot for a variable
